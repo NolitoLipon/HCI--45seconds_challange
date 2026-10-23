@@ -1,0 +1,11 @@
+BACKGROUND MUSIC (optional)
+===========================
+The Music button works WITHOUT any file: the page makes its own calm tune
+that changes with each Breathing Style (Water is soft, Flame has drums, Thunder is fast,
+Wisteria is dreamy).
+
+To use your own music instead, save an MP3 here with this exact name:
+    background.mp3
+Then press the Music button (or the M key). It starts only when you press it.
+
+Tip: use music you are allowed to use (your own, or free to use). You can delete this note.
